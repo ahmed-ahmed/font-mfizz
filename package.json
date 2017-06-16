@@ -1,20 +1,20 @@
 {
-  "name": "font-mfizz",
-  "version": "2.4.1",
-  "description": "Font Mfizz - Vector Icons for Technology and Software Geeks ===========================================================",
+  "name": "zasyntax-icons",
+  "version": "0.0.1",
+  "description": "icons collection",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fizzed/font-mfizz.git"
+    "url": "https://github.com/ahmed-ahmed/font-mfizz"
   },
-  "author": "Fizzed, Inc.",
+  "author": "Ahmed Ahmed",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fizzed/font-mfizz/issues"
+    "url": "https://github.com/ahmed-ahmed/font-mfizz"
   },
-  "homepage": "http://fizzed.com/oss/font-mfizz",
+  "homepage": "https://github.com/ahmed-ahmed/font-mfizz",
   "dependencies": {}
 }
